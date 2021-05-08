@@ -18,6 +18,15 @@ Careplus is a interactive application which caters the "Emotional Wellness and M
 - Relaxing Activities for releasing day-to-day stress.
 - Applications are avaliale on regional languages apart from English.
 
+## Tech Stack
+- React Native
+- Redux
+- ReactHooks
+- Expo
+- ExpoGo
+- FireBase
+
+
 ## Impact
 - Stress releasing activities will help the people to aim for better lifestyle and goals.
 - People will get instant support and emotional help from the experts without any hassle.
